@@ -1,0 +1,86 @@
+{
+    "Times":[
+        {
+            "Time":"America-MG",
+            "id": "1f68d780"
+        },
+        {
+            "Time":"Atletico-Paranaense",
+            "id": "2091c619"
+        },
+        {
+            "Time":"Atletico-Mineiro",
+            "id": "422bb734"
+        },
+        {
+            "Time":"Bahia",
+            "id": "157b7fee"
+        },
+        {
+            "Time":"Botafogo-RJ",
+            "id": "d9fdd9d9"
+        },
+        {
+            "Time":"Bragantino",
+            "id": "f98930d1"
+        },
+        {
+            "Time":"Corinthians",
+            "id": "bf4acd28"
+        },
+        {
+            "Time":"Coritiba",
+            "id": "d680d257"
+        },
+        {
+            "Time":"Cruzeiro",
+            "id": "03ff5eeb"
+        },
+        {
+            "Time":"Cuiaba",
+            "id": "2091c619"
+        },
+        {
+            "Time":"Flamengo",
+            "id": "639950ae"
+        },
+        {
+            "Time":"Fluminense",
+            "id": "84d9701c"
+        },
+        {
+            "Time":"Fortaleza",
+            "id": "a9d0ab0e"
+        },
+        {
+            "Time":"Goias",
+            "id": "78c617cc"
+        },
+        {
+            "Time":"Gremio",
+            "id": "d5ae3703"
+        },
+        {
+            "Time":"Internacional",
+            "id": "6f7e1f03"
+        },
+        {
+            "Time":"Palmeiras",
+            "id": "abdce579"
+        },
+        {
+            "Time":"Santos",
+            "id": "712c528f"
+        },
+        {
+            "Time":"Sao-Paulo",
+            "id": "5f232eb1"
+        },
+        {
+            "Time":"Vasco-da-Gama",
+            "id": "83f55dbe"
+        }
+
+
+    ]
+}
