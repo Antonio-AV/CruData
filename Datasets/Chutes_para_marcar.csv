@@ -1,0 +1,181 @@
+,Jogador,Chutes,Gols,Time,Posicao
+0,Juninho,11,1,America-MG,LT
+1,Aloísio dos Santos Gonçalves,34,3,America-MG,"AT,LT"
+2,Felipe Azevedo,13,1,America-MG,"LT,AT"
+3,Everaldo,10,1,America-MG,"LT,AT"
+4,Danilo Avelar,15,3,America-MG,ZG
+5,Breno Cascardo,8,1,America-MG,LT
+6,Ale,6,1,America-MG,LT
+7,Renato Marques,4,1,America-MG,"AT,LT"
+8,Gonzalo Mastriani,6,2,America-MG,AT
+9,Wellington Paulista,9,1,America-MG,AT
+10,Vitor Roque,30,7,Atletico-Paranaense,AT
+11,Pedro Henrique,7,1,Atletico-Paranaense,ZG
+12,Erick,18,1,Atletico-Paranaense,LT
+13,Christian,17,3,Atletico-Paranaense,"LT,AT"
+14,Vitor Bueno,18,1,Atletico-Paranaense,"LT,AT"
+15,Alex Santana,11,1,Atletico-Paranaense,LT
+16,Agustín Canobbio,21,1,Atletico-Paranaense,"AT,LT"
+17,Pablo,15,1,Atletico-Paranaense,AT
+18,Willian,3,2,Atletico-Paranaense,"AT,LT"
+19,Hulk,44,6,Atletico-Mineiro,AT
+20,Federico Zaracho,12,1,Atletico-Mineiro,LT
+21,Hyoran,19,2,Atletico-Mineiro,"LT,AT"
+22,Paulinho,28,3,Atletico-Mineiro,"AT,LT"
+23,Cristian Pavón,20,2,Atletico-Mineiro,"AT,LT"
+24,Mauricio Lemos,10,1,Atletico-Mineiro,ZG
+25,Eduardo Vargas,6,1,Atletico-Mineiro,AT
+26,Alan Kardec,2,1,Atletico-Mineiro,"AT,LT"
+27,Thaciano,23,2,Bahia,LT
+28,David Duarte,3,1,Bahia,ZG
+29,Everaldo Stum,13,2,Bahia,AT
+30,Vítor Jacaré,12,1,Bahia,"ZG,LT"
+31,Ademir Santos,11,1,Bahia,"AT,LT"
+32,Gabriel Teixeira,20,2,Bahia,"AT,LT"
+33,Kayky Chagas,8,2,Bahia,"LT,AT"
+34,Vinicius Mingotti,6,1,Bahia,AT
+35,Arthur Sales,7,1,Bahia,"AT,LT"
+36,Víctor Cuesta,9,1,Botafogo-RJ,ZG
+37,Júnior Santos,27,2,Botafogo-RJ,AT
+38,Tiquinho Soares,35,10,Botafogo-RJ,AT
+39,Carlos Eduardo,7,2,Botafogo-RJ,LT
+40,Tchê Tchê,12,1,Botafogo-RJ,LT
+41,João Victor Santos Sá,21,1,Botafogo-RJ,AT
+42,Luis Henrique,8,2,Botafogo-RJ,AT
+43,Danilo Barbosa,3,1,Botafogo-RJ,LT
+44,Matheus Nascimento,3,1,Botafogo-RJ,AT
+45,Carlos Alberto,1,1,Botafogo-RJ,"ZG,AT"
+46,Juninho Capixaba,10,2,Bragantino,ZG
+47,Eduardo Sasha,23,6,Bragantino,"AT,LT"
+48,Matheus Fernandes,10,1,Bragantino,LT
+49,Eduardo Santos,9,1,Bragantino,ZG
+50,Helinho,14,2,Bragantino,AT
+51,Vitinho,32,1,Bragantino,"AT,LT"
+52,Bruno,7,1,Bragantino,"AT,LT"
+53,Henery Mosquera,14,2,Bragantino,"AT,LT"
+54,Marcos Vinicios Sorriso,11,1,Bragantino,AT
+55,Thiago Borbas,16,4,Bragantino,AT
+56,Alerrandro,3,1,Bragantino,AT
+57,Roger Guedes,39,5,Corinthians,"LT,AT"
+58,Yuri Alberto,27,2,Corinthians,AT
+59,Ruan Oliveira Ferreira,8,2,Corinthians,LT
+60,Matheus Araújo,3,1,Corinthians,LT
+61,Bruno Gomes,18,1,Coritiba,LT
+62,Robson,11,3,Coritiba,"AT,LT"
+63,Benjamín Kuscevic,5,1,Coritiba,ZG
+64,Alef Manga,25,3,Coritiba,AT
+65,Zé Roberto,8,1,Coritiba,"AT,LT"
+66,Marcelino Moreno,10,1,Coritiba,LT
+67,Gabriel Boschilia,15,1,Coritiba,"LT,AT"
+68,Marlon,6,2,Cruzeiro,ZG
+69,Bruno Nascimento,38,3,Cruzeiro,AT
+70,Lucas Oliveira,3,1,Cruzeiro,ZG
+71,Wesley,23,3,Cruzeiro,"AT,LT"
+72,Gilberto,28,3,Cruzeiro,AT
+73,Ramiro Benetti,6,1,Cruzeiro,LT
+74,Henrique Dourado,13,1,Cruzeiro,AT
+75,Vitor Roque,30,7,Cuiaba,AT
+76,Pedro Henrique,7,1,Cuiaba,ZG
+77,Erick,18,1,Cuiaba,LT
+78,Christian,17,3,Cuiaba,"LT,AT"
+79,Vitor Bueno,18,1,Cuiaba,"LT,AT"
+80,Alex Santana,11,1,Cuiaba,LT
+81,Agustín Canobbio,21,1,Cuiaba,"AT,LT"
+82,Pablo,15,1,Cuiaba,AT
+83,Willian,3,2,Cuiaba,"AT,LT"
+84,Léo Pereira,6,3,Flamengo,ZG
+85,Ayrton Lucas,12,3,Flamengo,ZG
+86,Gabriel Barbosa,25,4,Flamengo,"AT,LT"
+87,Gerson,9,2,Flamengo,LT
+88,Erick Pulgar,5,2,Flamengo,LT
+89,Everton Soares,22,2,Flamengo,"AT,LT"
+90,Everton Ribeiro,8,2,Flamengo,"AT,LT"
+91,Pedro,15,4,Flamengo,AT
+92,Giorgian De Arrascaeta,19,1,Flamengo,"LT,AT"
+93,David Luiz,4,1,Flamengo,ZG
+94,Matheus França,17,1,Flamengo,"LT,AT"
+95,Bruno Henrique,8,1,Flamengo,"AT,LT"
+96,Lima,17,3,Fluminense,"LT,AT"
+97,Nino,9,2,Fluminense,ZG
+98,Germán Cano,29,3,Fluminense,AT
+99,Ganso,9,3,Fluminense,LT
+100,Samuel Xavier,11,1,Fluminense,ZG
+101,Felipe Melo,1,1,Fluminense,ZG
+102,Gabriel Pirani,8,1,Fluminense,"LT,AT"
+103,Lelê,21,2,Fluminense,"AT,LT"
+104,John Kennedy,17,2,Fluminense,"AT,LT"
+105,Alan Carvalho,1,1,Fluminense,LT
+106,Caio Alexandre,9,1,Fortaleza,LT
+107,Guilherme Tinga,8,1,Fortaleza,ZG
+108,Thiago Galhardo,16,2,Fortaleza,AT
+109,Tomas Pochettino,22,2,Fortaleza,"LT,AT"
+110,Hércules,13,1,Fortaleza,LT
+111,Juan Martín Lucero,12,1,Fortaleza,AT
+112,Moises,17,3,Fortaleza,"LT,AT"
+113,Yago Pikachu,17,2,Fortaleza,"LT,ZG"
+114,Silvio Romero,5,2,Fortaleza,"AT,LT"
+115,Bruno Melo,12,2,Goias,ZG
+116,Matheus Peixoto,20,2,Goias,AT
+117,Maguinho,12,2,Goias,"ZG,LT"
+118,Lucas Halter,10,1,Goias,ZG
+119,Everton Morelli,8,1,Goias,LT
+120,Alesson,4,1,Goias,"AT,LT"
+121,Apodi,7,1,Goias,"AT,LT"
+122,Dodô,2,1,Goias,"AT,LT"
+123,Bitelo,23,3,Gremio,"LT,AT"
+124,Franco Cristaldo,17,4,Gremio,"LT,AT"
+125,Luis Suárez,40,4,Gremio,AT
+126,Mathías Villasanti,13,3,Gremio,LT
+127,Bruno Uvini,10,1,Gremio,ZG
+128,Reinaldo,8,1,Gremio,ZG
+129,Vinícius,14,1,Gremio,AT
+130,João Pedro,4,1,Gremio,ZG
+131,Gustavo Martins Santos,5,1,Gremio,ZG
+132,Cuiabano,8,1,Gremio,"LT,ZG"
+133,Everton,8,2,Gremio,"LT,AT"
+134,Andre Martins,3,1,Gremio,"AT,LT"
+135,Pedro Henrique,22,1,Internacional,AT
+136,Luiz Adriano,11,1,Internacional,AT
+137,Johnny Cardoso,10,2,Internacional,LT
+138,Wanderson,10,3,Internacional,AT
+139,Romulo,8,1,Internacional,"LT,ZG"
+140,Carlos de Pena,13,1,Internacional,"LT,AT"
+141,Mauricio,9,2,Internacional,AT
+142,Alexandre Alemão,12,1,Internacional,AT
+143,Jean Dias,6,1,Internacional,"AT,LT"
+144,Artur,25,4,Palmeiras,AT
+145,Dudu,32,2,Palmeiras,AT
+146,Gabriel Menino,19,2,Palmeiras,LT
+147,Luan Garcia,8,1,Palmeiras,ZG
+148,Mayke,2,1,Palmeiras,ZG
+149,Rony,17,2,Palmeiras,AT
+150,Raphael Veiga,26,4,Palmeiras,LT
+151,Murilo Cerqueira,1,1,Palmeiras,ZG
+152,Endrick,12,4,Palmeiras,AT
+153,José López,5,1,Palmeiras,"LT,AT"
+154,Rafael Navarro,4,1,Palmeiras,AT
+155,Lucas Lima,9,1,Santos,"LT,AT"
+156,Rodrigo Fernández,7,1,Santos,LT
+157,Marcos Leonardo,23,1,Santos,AT
+158,Stiven Mendoza,17,3,Santos,AT
+159,Ângelo Borges,6,2,Santos,"AT,LT"
+160,Deivid Washington,15,2,Santos,AT
+161,Eduardo Gabriel,8,1,Santos,ZG
+162,Pablo Maia,19,2,Sao-Paulo,LT
+163,Lucas Beraldo,7,1,Sao-Paulo,ZG
+164,Luciano,30,4,Sao-Paulo,"LT,AT"
+165,Jonathan Calleri,26,4,Sao-Paulo,AT
+166,Rodrigo Nestor,19,1,Sao-Paulo,"LT,AT"
+167,Gabriel Neves,1,1,Sao-Paulo,LT
+168,Michel Araujo,12,1,Sao-Paulo,"LT,AT"
+169,Marcos Paulo,12,2,Sao-Paulo,"AT,LT"
+170,Juan Santos,3,1,Sao-Paulo,AT
+171,David,2,1,Sao-Paulo,"LT,AT"
+172,Jair,4,2,Vasco-da-Gama,LT
+173,Pedro Raul,21,2,Vasco-da-Gama,AT
+174,Gabriel Chaves,18,2,Vasco-da-Gama,AT
+175,Andrey Santos,5,1,Vasco-da-Gama,LT
+176,Matías Galarza,9,1,Vasco-da-Gama,LT
+177,Rayan Vitor,9,1,Vasco-da-Gama,AT
+178,Cauan Barros,5,1,Vasco-da-Gama,LT
+179,Erick Marcus,6,1,Vasco-da-Gama,"AT,LT"
