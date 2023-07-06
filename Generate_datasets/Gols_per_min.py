@@ -3,6 +3,7 @@ import json
 
 # VISITA AS PAGINAS INICIAIS DE ESTATISTICAS DE CADA TIME BRASILEIRO E FILTRA AS INFORMAÇÕES DO NOME DO JOGADOR, CHUTES, GOLS E POSIÇÃO
 
+# Percorrendo os times do brasileirao
 test = open('../times_brasileirao.json')
 data = json.load(test)
 
@@ -14,8 +15,8 @@ for i in range(len(data["Times"])):
 
     url = f"https://fbref.com/pt/equipes/{id}/{time}-Estatisticas"
     df = pd.read_html(url)[0]
-    #print(df)
 
+    # Separando as informações que me interessam e formando um novo dataframe
     nomes = []
     minutos = []
     gols = []
@@ -35,14 +36,16 @@ for i in range(len(data["Times"])):
                                       "Gols": gols,
                                       "Time":time,
                                       "Posicao":posicoes})
+    # Filtrando os dados do novo dataframe
     df_gols_per_min_time = df_gols_per_min_time.dropna()
     df_gols_per_min_time = df_gols_per_min_time.drop(df_gols_per_min_time[df_gols_per_min_time["Gols"] == 0].index)
-    print(df_gols_per_min_time)
+    
+    # Concatenando os dataframes de cada time em um dataframe com todos os times
     df_gols_per_min = pd.concat([df_gols_per_min, df_gols_per_min_time])
 
-df_gols_per_min = df_gols_per_min.reset_index(drop=True)
-print(df_gols_per_min)
 
+# Ajustando o dataframe final e salvando-o
+df_gols_per_min = df_gols_per_min.reset_index(drop=True)
 for i in range(len(df_gols_per_min)):
     if df_gols_per_min["Tempo de Jogo"][i] < 2:
         df_gols_per_min["Tempo de Jogo"][i] = df_gols_per_min["Tempo de Jogo"][i] * 1000

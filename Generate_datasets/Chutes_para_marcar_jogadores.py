@@ -3,6 +3,7 @@ import json
 
 # VISITA AS PAGINAS INICIAIS DE ESTATISTICAS DE CADA TIME BRASILEIRO E FILTRA AS INFORMAÇÕES DO NOME DO JOGADOR, TEMPO DE JOGO(MIN), GOLS E POSIÇÃO
 
+# Percorrendo os times do brasileirao
 test = open('../times_brasileirao.json')
 data = json.load(test)
 
@@ -14,8 +15,8 @@ for i in range(len(data["Times"])):
 
     url = f"https://fbref.com/pt/equipes/{id}/{time}-Estatisticas"
     df = pd.read_html(url)[4]
-    #print(df)
 
+    # Separando as informações que me interessam e formando um novo dataframe
     nomes = []
     chutes = []
     gols = []
@@ -35,13 +36,14 @@ for i in range(len(data["Times"])):
                                                 "Gols": gols,
                                                 "Time":time,
                                                 "Posicao":posicoes})
+    # Filtrando os dados do novo dataframe 
     df_chutes_para_marcar_time = df_chutes_para_marcar_time.dropna()
     df_chutes_para_marcar_time = df_chutes_para_marcar_time.drop(df_chutes_para_marcar_time[df_chutes_para_marcar_time["Chutes"] == 0].index)
     df_chutes_para_marcar_time = df_chutes_para_marcar_time.drop(df_chutes_para_marcar_time[df_chutes_para_marcar_time["Gols"] == 0].index)
-    print(df_chutes_para_marcar_time)
+    
+    # Concatenando os dataframes de cada time em um dataframe com todos os times
     df_chutes_para_marcar = pd.concat([df_chutes_para_marcar, df_chutes_para_marcar_time])
-        
-df_chutes_para_marcar = df_chutes_para_marcar.reset_index(drop=True)
-print(df_chutes_para_marcar)
 
-df_chutes_para_marcar.to_csv("../Datasets/Chutes_para_marcar.csv")
+# Ajustando o dataframe final e salvando-o
+df_chutes_para_marcar = df_chutes_para_marcar.reset_index(drop=True)
+df_chutes_para_marcar.to_csv("../Datasets/Chutes_para_marcar_jogadores.csv")
