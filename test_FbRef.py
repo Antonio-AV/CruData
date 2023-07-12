@@ -2,13 +2,13 @@ import pandas as pd
 import json
 import requests
 
-url = f"https://fbref.com/pt/equipes/03ff5eeb/Cruzeiro-Estatisticas"
+url = f"https://fbref.com/pt/partidas/7dee7a51/America-MG-Penarol-2023Abril5-Copa-Sudamericana"
 response = requests.get(url)
 html = response.content
 
 tables = pd.read_html(html)
 
-print(tables[4])
+print(tables)
 
 
 # gols = df["GP"]

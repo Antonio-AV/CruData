@@ -1,0 +1,131 @@
+,Unnamed: 0,Data,Horário,Camp.,Rodada,Dia,Local,Resultado,GP,GC,Oponente,xG,xGA,Posse,Público,Capitão,Formação,Árbitro,Relatório da Partida,Estádio,Time
+0,1,2023-04-15,16:00,Série A,Rodada da semana 1,sáb,Em casa,D,0.0,3.0,Fluminense,1.1,3.1,46.0,,Juninho,4-2-3-1,Braulio da Silva Machado,Relatório da Partida,Independência,America-MG
+1,6,2023-05-07,11:00,Série A,Rodada da semana 4,dom,Em casa,D,1.0,2.0,Cuiabá,1.4,0.5,46.0,,Juninho,4-1-4-1,Denis da Silva Ribeiro Serafim,Relatório da Partida,Independência,America-MG
+2,8,2023-05-14,18:30,Série A,Rodada da semana 6,dom,Em casa,D,0.0,4.0,Cruzeiro,1.3,2.6,48.0,4.295,Juninho,4-3-3,Wilton Sampaio,Relatório da Partida,Independência,America-MG
+3,9,2023-05-20,18:30,Série A,Rodada da semana 7,sáb,Em casa,V,2.0,1.0,Fortaleza,0.8,1.2,28.0,,Danilo Avelar,4-2-3-1,Luiz Flávio de Oliveira,Relatório da Partida,Independência,America-MG
+4,12,2023-06-03,18:30,Série A,Rodada da semana 9,sáb,Em casa,V,2.0,0.0,Corinthians,1.4,1.2,30.0,,Juninho,4-1-3-2,Anderson Daronco,Relatório da Partida,Independência,America-MG
+5,14,2023-06-11,11:00,Série A,Rodada da semana 10,dom,Em casa,E,2.0,2.0,Atl Paranaense,1.9,0.8,50.0,,Juninho,4-1-4-1,João Vitor Gobi,Relatório da Partida,Mineirão,America-MG
+6,16,2023-06-25,18:30,Série A,Rodada da semana 12,dom,Em casa,D,1.0,2.0,Internacional,1.3,1.0,40.0,,Juninho,4-3-3,Flavio Rodrigues de Souza,Relatório da Partida,Independência,America-MG
+7,5,2023-04-15,21:00,Série A,Rodada da semana 1,sáb,Em casa,D,1.0,2.0,Vasco da Gama,1.5,1.5,74.0,,Hulk,4-3-3,Raphael Claus,Relatório da Partida,Mineirão,Atletico-Mineiro
+8,8,2023-04-29,21:00,Série A,Rodada da semana 3,sáb,Em casa,V,2.0,1.0,Atl Paranaense,2.0,0.6,59.0,,Hulk,4-4-2,Ramon Abatti Abel,Relatório da Partida,Independência,Atletico-Mineiro
+9,12,2023-05-13,21:00,Série A,Rodada da semana 6,sáb,Em casa,V,2.0,0.0,Internacional,2.0,0.3,54.0,36.08,Mariano,4-2-2-2,Raphael Claus,Relatório da Partida,Mineirão,Atletico-Mineiro
+10,15,2023-05-28,18:30,Série A,Rodada da semana 8,dom,Em casa,E,1.0,1.0,Palmeiras,0.8,1.1,57.0,53.236,Hulk,4-1-3-2,Braulio da Silva Machado,Relatório da Partida,Mineirão,Atletico-Mineiro
+11,18,2023-06-10,18:30,Série A,Rodada da semana 10,sáb,Em casa,E,1.0,1.0,Bragantino,1.7,0.5,61.0,,Mariano,4-2-3-1,Rafael Rodrigo Klein,Relatório da Partida,Mineirão,Atletico-Mineiro
+12,22,2023-07-02,16:00,Série A,Rodada da semana 13,dom,Em casa,E,2.0,2.0,América (MG),1.4,2.6,47.0,34.507,Hulk,4-3-3,Wilton Sampaio,Relatório da Partida,Mineirão,Atletico-Mineiro
+13,1,2023-04-15,18:30,Série A,Rodada da semana 1,sáb,Em casa,V,2.0,0.0,Goiás,0.8,1.0,44.0,,Thiago Heleno,4-2-3-1,Rafael Rodrigo Klein,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+14,6,2023-05-07,16:00,Série A,Rodada da semana 4,dom,Em casa,V,2.0,1.0,Flamengo,1.0,1.5,40.0,32.949,Thiago Heleno,4-4-2,Raphael Claus,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+15,8,2023-05-14,18:30,Série A,Rodada da semana 6,dom,Em casa,V,3.0,2.0,Coritiba,2.9,0.4,64.0,17.608,Thiago Heleno,4-2-3-1,Flavio Rodrigues de Souza,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+16,11,2023-05-27,16:00,Série A,Rodada da semana 8,sáb,Em casa,D,1.0,2.0,Grêmio,1.3,0.7,66.0,,Thiago Heleno,4-2-3-1,Savio Pereira,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+17,12,2023-06-03,18:30,Série A,Rodada da semana 9,sáb,Em casa,V,1.0,0.0,Botafogo (RJ),0.9,0.6,49.0,,Pedro Henrique,4-2-3-1,Vinicius Gonçalves Dias Araujo,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+18,16,2023-06-24,16:00,Série A,Rodada da semana 12,sáb,Em casa,V,1.0,0.0,Corinthians,2.7,0.9,35.0,,Thiago Heleno,3-4-3,Wagner do Nascimento Magalhães,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+19,18,2023-07-02,16:00,Série A,Rodada da semana 13,dom,Em casa,E,2.0,2.0,Palmeiras,3.8,1.5,54.0,,Thiago Heleno,3-4-3,Jean Pierre Goncalves Lima,Relatório da Partida,Ligga Arena,Atletico-Paranaense
+20,1,2023-04-24,20:00,Série A,Rodada da semana 2,seg,Em casa,D,1.0,2.0,Botafogo (RJ),0.9,0.2,58.0,27.822,Everaldo Stum,5-4-1,Raphael Claus,Relatório da Partida,Fonte Nova,Bahia
+21,3,2023-05-07,16:00,Série A,Rodada da semana 4,dom,Em casa,V,3.0,1.0,Coritiba,1.5,0.4,50.0,37.936,Kanu,3-4-3,Bruno Mota Correia,Relatório da Partida,Fonte Nova,Bahia
+22,5,2023-05-13,16:00,Série A,Rodada da semana 6,sáb,Em casa,D,2.0,3.0,Flamengo,1.4,2.2,52.0,,Kanu,3-4-1-2,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Fonte Nova,Bahia
+23,6,2023-05-20,16:00,Série A,Rodada da semana 7,sáb,Em casa,E,1.0,1.0,Goiás,2.3,0.9,50.0,,Everaldo Stum,3-4-3,Denis da Silva Ribeiro Serafim,Relatório da Partida,Fonte Nova,Bahia
+24,9,2023-06-10,18:30,Série A,Rodada da semana 10,sáb,Em casa,E,2.0,2.0,Cruzeiro,1.4,2.4,48.0,,Kanu,3-4-3,Rodrigo José Pereira de Lima,Relatório da Partida,Fonte Nova,Bahia
+25,10,2023-06-21,21:30,Série A,Rodada da semana 11,qua,Em casa,V,1.0,0.0,Palmeiras,1.1,0.8,46.0,31.013,Kanu,4-2-3-1,Wilton Sampaio,Relatório da Partida,Fonte Nova,Bahia
+26,12,2023-07-01,18:30,Série A,Rodada da semana 13,sáb,Em casa,D,1.0,2.0,Grêmio,1.9,2.8,47.0,34.09,Kanu,4-4-2,Marcelo de Lima Henrique,Relatório da Partida,Fonte Nova,Bahia
+27,1,2023-04-15,18:30,Série A,Rodada da semana 1,sáb,Em casa,V,2.0,1.0,São Paulo,0.9,2.0,33.0,,Víctor Cuesta,4-2-3-1,Ramon Abatti Abel,Relatório da Partida,Nilton Santos,Botafogo-RJ
+28,6,2023-05-07,18:30,Série A,Rodada da semana 4,dom,Em casa,V,2.0,0.0,Atlético Mineiro,2.0,0.5,39.0,,Víctor Cuesta,4-2-3-1,Flavio Rodrigues de Souza,Relatório da Partida,Nilton Santos,Botafogo-RJ
+29,7,2023-05-11,19:30,Série A,Rodada da semana 5,qui,Em casa,V,3.0,0.0,Corinthians,2.6,0.6,53.0,,Fernando Marçal,4-2-3-1,Anderson Daronco,Relatório da Partida,Nilton Santos,Botafogo-RJ
+30,9,2023-05-20,18:30,Série A,Rodada da semana 7,sáb,Em casa,V,1.0,0.0,Fluminense,1.4,0.9,35.0,,Fernando Marçal,4-2-3-1,Braulio da Silva Machado,Relatório da Partida,Nilton Santos,Botafogo-RJ
+31,11,2023-05-28,19:00,Série A,Rodada da semana 8,dom,Em casa,V,2.0,0.0,América (MG),2.1,0.4,55.0,23.708,Fernando Marçal,4-2-3-1,Raphael Claus,Relatório da Partida,Nilton Santos,Botafogo-RJ
+32,14,2023-06-10,21:00,Série A,Rodada da semana 10,sáb,Em casa,V,2.0,0.0,Fortaleza,3.7,0.4,54.0,,Víctor Cuesta,4-2-3-1,Wilton Sampaio,Relatório da Partida,Nilton Santos,Botafogo-RJ
+33,18,2023-07-02,16:00,Série A,Rodada da semana 13,dom,Em casa,V,2.0,0.0,Vasco da Gama,1.5,0.9,60.0,,Víctor Cuesta,4-2-3-1,Raphael Claus,Relatório da Partida,Nilton Santos,Botafogo-RJ
+34,1,2023-04-15,18:30,Série A,Rodada da semana 1,sáb,Em casa,V,2.0,1.0,Bahia,2.0,0.7,55.0,,Aderlan Silva,4-2-3-1,Maguielson Lima Barbosa,Relatório da Partida,Nabi Abi Chedid,Bragantino
+35,4,2023-04-29,18:30,Série A,Rodada da semana 3,sáb,Em casa,D,0.0,3.0,Cruzeiro,1.5,2.0,46.0,,Aderlan Silva,4-2-3-1,Braulio da Silva Machado,Relatório da Partida,Nabi Abi Chedid,Bragantino
+36,7,2023-05-10,19:00,Série A,Rodada da semana 5,qua,Em casa,E,2.0,2.0,América (MG),1.7,2.0,62.0,,Cleiton Schwengber,4-3-3,Rafael Rodrigo Klein,Relatório da Partida,Nabi Abi Chedid,Bragantino
+37,9,2023-05-20,18:30,Série A,Rodada da semana 7,sáb,Em casa,V,2.0,0.0,Atl Paranaense,1.7,1.1,60.0,,Cleiton Schwengber,4-2-3-1,Felipe Fernandes de Lima,Relatório da Partida,Nabi Abi Chedid,Bragantino
+38,11,2023-05-28,18:30,Série A,Rodada da semana 8,dom,Em casa,V,2.0,0.0,Santos,1.5,0.3,59.0,5.988,Cleiton Schwengber,4-3-3,Anderson Daronco,Relatório da Partida,Nabi Abi Chedid,Bragantino
+39,15,2023-06-22,21:30,Série A,Rodada da semana 11,qui,Em casa,V,4.0,0.0,Flamengo,3.3,0.8,59.0,,Lucas Evangelista,3-2-4-1,Anderson Daronco,Relatório da Partida,Nabi Abi Chedid,Bragantino
+40,16,2023-06-25,18:30,Série A,Rodada da semana 12,dom,Em casa,V,2.0,0.0,Goiás,1.8,0.2,59.0,,Cleiton Schwengber,3-2-4-1,Bruno Mota Correia,Relatório da Partida,Nabi Abi Chedid,Bragantino
+41,1,2023-04-16,16:00,Série A,Rodada da semana 1,dom,Em casa,V,2.0,1.0,Cruzeiro,1.5,0.5,40.0,41.304,Cássio,4-2-3-1,Anderson Daronco,Relatório da Partida,Neo Química Arena,Corinthians
+42,6,2023-05-08,20:00,Série A,Rodada da semana 4,seg,Em casa,E,1.0,1.0,Fortaleza,1.5,0.8,49.0,36.512,Cássio,4-2-3-1,Ramon Abatti Abel,Relatório da Partida,Neo Química Arena,Corinthians
+43,8,2023-05-14,16:00,Série A,Rodada da semana 6,dom,Em casa,E,1.0,1.0,São Paulo,0.9,0.9,34.0,41.118,Cássio,4-1-4-1,Bruno Arleu de Araujo,Relatório da Partida,Neo Química Arena,Corinthians
+44,11,2023-05-28,16:00,Série A,Rodada da semana 8,dom,Em casa,V,2.0,0.0,Fluminense,1.4,1.3,30.0,,Cássio,4-4-2,Leandro Pedro Vuaden,Relatório da Partida,Neo Química Arena,Corinthians
+45,14,2023-06-10,18:30,Série A,Rodada da semana 10,sáb,Em casa,E,1.0,1.0,Cuiabá,1.4,0.7,61.0,,Cássio,3-4-1-2,André Luiz Skettino Policarpo Bento,Relatório da Partida,Neo Química Arena,Corinthians
+46,18,2023-07-02,11:00,Série A,Rodada da semana 13,dom,Em casa,D,0.0,1.0,Bragantino,0.6,0.9,42.0,,Cássio,4-3-3,Edina Alves Batista,Relatório da Partida,Neo Química Arena,Corinthians
+47,1,2023-04-23,18:30,Série A,Rodada da semana 2,dom,Em casa,D,0.0,3.0,Fortaleza,0.7,2.6,58.0,,Gabriel,3-1-4-2,Wilton Sampaio,Relatório da Partida,Couto Pereira,Coritiba
+48,2,2023-04-29,16:30,Série A,Rodada da semana 3,sáb,Em casa,E,1.0,1.0,São Paulo,1.8,1.1,33.0,,Willian Farias,3-4-3,Rafael Rodrigo Klein,Relatório da Partida,Couto Pereira,Coritiba
+49,4,2023-05-11,19:00,Série A,Rodada da semana 5,qui,Em casa,E,1.0,1.0,Vasco da Gama,1.0,0.8,36.0,,Henrique,5-4-1,Ramon Abatti Abel,Relatório da Partida,Couto Pereira,Coritiba
+50,6,2023-05-20,18:30,Série A,Rodada da semana 7,sáb,Em casa,D,1.0,2.0,Atlético Mineiro,1.0,1.5,35.0,,Henrique,3-5-2,Rodrigo José Pereira de Lima,Relatório da Partida,Couto Pereira,Coritiba
+51,9,2023-06-10,16:00,Série A,Rodada da semana 10,sáb,Em casa,E,0.0,0.0,Santos,1.2,0.8,47.0,25.987,Henrique,3-5-2,Bruno Mota Correia,Relatório da Partida,Couto Pereira,Coritiba
+52,10,2023-06-22,20:00,Série A,Rodada da semana 11,qui,Em casa,D,0.0,1.0,Internacional,1.5,0.9,51.0,,Gabriel,3-1-4-2,André Luiz Skettino Policarpo Bento,Relatório da Partida,Couto Pereira,Coritiba
+53,1,2023-04-22,21:00,Série A,Rodada da semana 2,sáb,Em casa,V,1.0,0.0,Grêmio,1.5,0.8,49.0,21.605,Rafael Cabral,4-2-3-1,Flavio Rodrigues de Souza,Relatório da Partida,Independência,Cruzeiro
+54,3,2023-05-06,16:00,Série A,Rodada da semana 4,sáb,Em casa,V,2.0,1.0,Santos,1.6,1.0,55.0,,Rafael Cabral,4-2-3-1,Bruno Arleu de Araujo,Relatório da Partida,Independência,Cruzeiro
+55,4,2023-05-10,21:30,Série A,Rodada da semana 5,qua,Em casa,D,0.0,2.0,Fluminense,2.1,1.2,48.0,,Rafael Cabral,4-2-3-1,Flavio Rodrigues de Souza,Relatório da Partida,Mineirão,Cruzeiro
+56,6,2023-05-22,20:00,Série A,Rodada da semana 7,seg,Em casa,D,0.0,1.0,Cuiabá,1.2,1.2,65.0,,Rafael Cabral,4-3-3,Savio Pereira,Relatório da Partida,Arena do Jacaré,Cruzeiro
+57,8,2023-06-03,18:30,Série A,Rodada da semana 9,sáb,Em casa,D,0.0,1.0,Atlético Mineiro,1.8,0.6,64.0,,Rafael Cabral,4-3-3,Savio Pereira,Relatório da Partida,Parque do Sabiá,Cruzeiro
+58,10,2023-06-21,19:00,Série A,Rodada da semana 11,qua,Em casa,D,0.0,1.0,Fortaleza,1.1,1.8,67.0,28.494,Rafael Cabral,4-3-3,Bruno Arleu de Araujo,Relatório da Partida,Mineirão,Cruzeiro
+59,11,2023-06-24,21:00,Série A,Rodada da semana 12,sáb,Em casa,V,1.0,0.0,São Paulo,0.5,1.4,31.0,,Rafael Cabral,4-3-3,Ramon Abatti Abel,Relatório da Partida,Independência,Cruzeiro
+60,1,2023-04-22,17:30,Série A,Rodada da semana 2,sáb,Em casa,E,1.0,1.0,Bragantino,1.2,0.9,34.0,9.267,Marllon Borges,4-2-3-1,Caio Max Augusto Vieira,Relatório da Partida,Arena Pantanal,Cuiaba
+61,2,2023-04-30,17:30,Série A,Rodada da semana 3,dom,Em casa,D,1.0,2.0,Grêmio,1.2,1.7,50.0,21.385,Marllon Borges,4-2-3-1,Bruno Arleu de Araujo,Relatório da Partida,Arena Pantanal,Cuiaba
+62,4,2023-05-10,19:00,Série A,Rodada da semana 5,qua,Em casa,D,0.0,4.0,Atlético Mineiro,0.2,2.8,47.0,12.029,Marllon Borges,4-2-3-1,Wilton Sampaio,Relatório da Partida,Arena Pantanal,Cuiaba
+63,7,2023-05-27,17:30,Série A,Rodada da semana 8,sáb,Em casa,E,1.0,1.0,Coritiba,0.7,1.0,43.0,,Walter,4-3-3,Denis da Silva Ribeiro Serafim,Relatório da Partida,Arena Pantanal,Cuiaba
+64,10,2023-06-22,19:00,Série A,Rodada da semana 11,qui,Em casa,D,0.0,1.0,Botafogo (RJ),1.1,1.2,52.0,,Walter,4-1-4-1,Flavio Rodrigues de Souza,Relatório da Partida,Arena Pantanal,Cuiaba
+65,12,2023-07-02,17:30,Série A,Rodada da semana 13,dom,Em casa,V,3.0,0.0,Santos,1.1,0.3,48.0,,Walter,4-3-3,Bruno Mota Correia,Relatório da Partida,Arena Pantanal,Cuiaba
+66,1,2023-04-16,16:00,Série A,Rodada da semana 1,dom,Em casa,V,3.0,0.0,Coritiba,1.4,0.4,58.0,42.848,Everton Ribeiro,4-2-3-1,Rodrigo José Pereira de Lima,Relatório da Partida,Maracanã,Flamengo
+67,4,2023-04-30,16:00,Série A,Rodada da semana 3,dom,Em casa,D,2.0,3.0,Botafogo (RJ),3.1,1.9,74.0,53.138,Gabriel Barbosa,3-4-3,Edina Alves Batista,Relatório da Partida,Maracanã,Flamengo
+68,7,2023-05-10,20:00,Série A,Rodada da semana 5,qua,Em casa,V,2.0,0.0,Goiás,2.6,0.7,57.0,,Everton Ribeiro,4-2-3-1,Savio Pereira,Relatório da Partida,Maracanã,Flamengo
+69,9,2023-05-21,16:00,Série A,Rodada da semana 7,dom,Em casa,V,1.0,0.0,Corinthians,0.6,1.2,64.0,,Gabriel Barbosa,4-2-2-2,Rafael Rodrigo Klein,Relatório da Partida,Maracanã,Flamengo
+70,11,2023-05-27,18:30,Série A,Rodada da semana 8,sáb,Em casa,E,1.0,1.0,Cruzeiro,2.0,1.2,62.0,,Gabriel Barbosa,4-3-1-2,Luiz Flávio de Oliveira,Relatório da Partida,Maracanã,Flamengo
+71,14,2023-06-11,18:30,Série A,Rodada da semana 10,dom,Em casa,V,3.0,0.0,Grêmio,1.9,2.0,52.0,,Everton Ribeiro,4-2-2-2,Savio Pereira,Relatório da Partida,Maracanã,Flamengo
+72,18,2023-07-01,18:30,Série A,Rodada da semana 13,sáb,Em casa,V,2.0,0.0,Fortaleza,1.4,1.5,58.0,,Everton Ribeiro,4-2-2-2,Savio Pereira,Relatório da Partida,Maracanã,Flamengo
+73,3,2023-04-22,16:00,Série A,Rodada da semana 2,sáb,Em casa,V,2.0,0.0,Atl Paranaense,0.8,0.6,62.0,38.598,Nino,4-2-3-1,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Maracanã,Fluminense
+74,6,2023-05-06,21:00,Série A,Rodada da semana 4,sáb,Em casa,E,1.0,1.0,Vasco da Gama,1.8,0.7,79.0,,Nino,4-2-3-1,Wilton Sampaio,Relatório da Partida,Maracanã,Fluminense
+75,8,2023-05-13,18:30,Série A,Rodada da semana 6,sáb,Em casa,V,2.0,0.0,Cuiabá,0.9,0.9,61.0,,Nino,4-2-3-1,Edina Alves Batista,Relatório da Partida,Maracanã,Fluminense
+76,12,2023-06-04,16:00,Série A,Rodada da semana 9,dom,Em casa,V,2.0,1.0,Bragantino,1.1,0.6,51.0,,Nino,4-2-3-1,Rodrigo José Pereira de Lima,Relatório da Partida,Maracanã,Fluminense
+77,15,2023-06-21,21:30,Série A,Rodada da semana 11,qua,Em casa,E,1.0,1.0,Atlético Mineiro,0.4,1.4,49.0,,Nino,4-2-3-1,Ramon Abatti Abel,Relatório da Partida,Sylvio Raulino de Oliveira,Fluminense
+78,16,2023-06-24,18:30,Série A,Rodada da semana 12,sáb,Em casa,V,2.0,1.0,Bahia,3.0,1.0,49.0,24.507,Nino,4-2-3-1,Savio Pereira,Relatório da Partida,Maracanã,Fluminense
+79,5,2023-04-15,18:30,Série A,Rodada da semana 1,sáb,Em casa,E,1.0,1.0,Internacional,1.5,0.9,48.0,,Guilherme Tinga,4-2-2-2,Edina Alves Batista,Relatório da Partida,Castelão,Fortaleza
+80,8,2023-04-29,16:30,Série A,Rodada da semana 3,sáb,Em casa,V,4.0,2.0,Fluminense,5.3,1.5,31.0,,Guilherme Tinga,4-4-2,Raphael Claus,Relatório da Partida,Castelão,Fortaleza
+81,11,2023-05-11,20:00,Série A,Rodada da semana 5,qui,Em casa,E,0.0,0.0,São Paulo,0.8,0.8,44.0,,Guilherme Tinga,4-4-2,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Castelão,Fortaleza
+82,15,2023-05-27,16:00,Série A,Rodada da semana 8,sáb,Em casa,V,2.0,0.0,Vasco da Gama,1.5,0.7,49.0,,Guilherme Tinga,4-4-2,Edina Alves Batista,Relatório da Partida,Castelão,Fortaleza
+83,16,2023-06-03,16:00,Série A,Rodada da semana 9,sáb,Em casa,E,0.0,0.0,Bahia,0.6,0.3,55.0,38.338,Guilherme Tinga,4-2-3-1,João Vitor Gobi,Relatório da Partida,Castelão,Fortaleza
+84,20,2023-06-24,18:30,Série A,Rodada da semana 12,sáb,Em casa,V,2.0,1.0,Atlético Mineiro,0.8,1.0,42.0,,Guilherme Tinga,3-5-2,Leandro Pedro Vuaden,Relatório da Partida,Castelão,Fortaleza
+85,3,2023-04-23,19:00,Série A,Rodada da semana 2,dom,Em casa,V,3.0,1.0,Corinthians,1.2,0.5,52.0,8.508,Tadeu,4-2-3-1,Bruno Arleu de Araujo,Relatório da Partida,Serrinha,Goias
+86,6,2023-05-07,18:30,Série A,Rodada da semana 4,dom,Em casa,D,0.0,5.0,Palmeiras,0.7,2.0,44.0,,Lucas Halter,4-2-3-1,Wagner do Nascimento Magalhães,Relatório da Partida,Serrinha,Goias
+87,8,2023-05-14,18:30,Série A,Rodada da semana 6,dom,Em casa,V,2.0,1.0,Botafogo (RJ),1.9,1.5,47.0,6.674,Lucas Halter,4-3-3,Rafael Rodrigo Klein,Relatório da Partida,Serrinha,Goias
+88,12,2023-06-04,18:30,Série A,Rodada da semana 9,dom,Em casa,D,0.0,1.0,Cuiabá,0.4,1.2,55.0,,Tadeu,4-2-3-1,Marcelo de Lima Henrique,Relatório da Partida,Serrinha,Goias
+89,14,2023-06-11,18:30,Série A,Rodada da semana 10,dom,Em casa,E,2.0,2.0,Fluminense,2.1,1.3,41.0,,Tadeu,4-5-1,Leandro Pedro Vuaden,Relatório da Partida,Serrinha,Goias
+90,18,2023-07-03,20:00,Série A,Rodada da semana 13,seg,Em casa,D,1.0,2.0,Coritiba,1.9,0.9,63.0,10.394,Tadeu,4-2-3-1,Denis da Silva Ribeiro Serafim,Relatório da Partida,Serrinha,Goias
+91,0,2023-04-16,18:30,Série A,Rodada da semana 1,dom,Em casa,V,1.0,0.0,Santos,1.6,1.2,45.0,,Walter Kannemann,4-2-3-1,Wilton Sampaio,Relatório da Partida,Alfredo Jaconi,Gremio
+92,3,2023-05-07,18:30,Série A,Rodada da semana 4,dom,Em casa,E,3.0,3.0,Bragantino,1.7,1.8,42.0,,Luis Suárez,4-2-3-1,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Arena do Grêmio,Gremio
+93,5,2023-05-14,16:00,Série A,Rodada da semana 6,dom,Em casa,E,0.0,0.0,Fortaleza,0.8,0.6,57.0,17.396,Walter Kannemann,4-2-3-1,Bruno Mota Correia,Relatório da Partida,Arena do Grêmio,Gremio
+94,6,2023-05-21,18:30,Série A,Rodada da semana 7,dom,Em casa,V,3.0,1.0,Internacional,1.7,1.5,30.0,39.438,Walter Kannemann,3-4-3,Flavio Rodrigues de Souza,Relatório da Partida,Arena do Grêmio,Gremio
+95,8,2023-06-04,16:00,Série A,Rodada da semana 9,dom,Em casa,V,2.0,1.0,São Paulo,1.9,1.1,40.0,,Walter Kannemann,3-4-3,Wilton Sampaio,Relatório da Partida,Arena do Grêmio,Gremio
+96,10,2023-06-22,19:00,Série A,Rodada da semana 11,qui,Em casa,V,3.0,1.0,América (MG),2.4,0.8,72.0,,Luis Suárez,4-2-3-1,Edina Alves Batista,Relatório da Partida,Arena do Grêmio,Gremio
+97,11,2023-06-25,16:00,Série A,Rodada da semana 12,dom,Em casa,V,5.0,1.0,Coritiba,3.4,1.1,50.0,37.048,Walter Kannemann,4-2-3-1,João Vitor Gobi,Relatório da Partida,Arena do Grêmio,Gremio
+98,3,2023-04-23,11:00,Série A,Rodada da semana 2,dom,Em casa,V,2.0,1.0,Flamengo,1.1,1.5,36.0,,Alan Patrick,4-2-3-1,Ramon Abatti Abel,Relatório da Partida,Beira-Rio,Internacional
+99,4,2023-04-30,18:30,Série A,Rodada da semana 3,dom,Em casa,V,1.0,0.0,Goiás,0.9,0.8,57.0,,Renê,4-2-3-1,Rodrigo José Pereira de Lima,Relatório da Partida,Beira-Rio,Internacional
+100,7,2023-05-10,19:00,Série A,Rodada da semana 5,qua,Em casa,D,0.0,2.0,Atl Paranaense,1.0,1.5,47.0,,Alan Patrick,4-2-3-1,Bruno Arleu de Araujo,Relatório da Partida,Beira-Rio,Internacional
+101,11,2023-05-28,16:00,Série A,Rodada da semana 8,dom,Em casa,V,2.0,0.0,Bahia,0.9,1.1,44.0,,Alan Patrick,4-2-3-1,Wagner do Nascimento Magalhães,Relatório da Partida,Beira-Rio,Internacional
+102,14,2023-06-11,16:00,Série A,Rodada da semana 10,dom,Em casa,V,2.0,1.0,Vasco da Gama,1.6,0.9,47.0,18.044,Alan Patrick,4-2-3-1,Edina Alves Batista,Relatório da Partida,Beira-Rio,Internacional
+103,18,2023-07-01,21:00,Série A,Rodada da semana 13,sáb,Em casa,E,0.0,0.0,Cruzeiro,1.8,1.0,54.0,,Gabriel Mercado,4-2-3-1,Wagner do Nascimento Magalhães,Relatório da Partida,Beira-Rio,Internacional
+104,1,2023-04-15,16:00,Série A,Rodada da semana 1,sáb,Em casa,V,2.0,1.0,Cuiabá,3.0,1.0,52.0,35.835,Gustavo Gómez,4-2-3-1,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Allianz Parque,Palmeiras
+105,4,2023-04-29,18:30,Série A,Rodada da semana 3,sáb,Em casa,V,2.0,1.0,Corinthians,1.4,0.5,54.0,,Gustavo Gómez,4-2-3-1,Wilton Sampaio,Relatório da Partida,Allianz Parque,Palmeiras
+106,7,2023-05-10,21:30,Série A,Rodada da semana 5,qua,Em casa,V,4.0,1.0,Grêmio,3.8,0.1,59.0,,Gustavo Gómez,4-2-3-1,Braulio da Silva Machado,Relatório da Partida,Allianz Parque,Palmeiras
+107,8,2023-05-13,18:30,Série A,Rodada da semana 6,sáb,Em casa,E,1.0,1.0,Bragantino,1.6,1.0,58.0,,Gustavo Gómez,4-2-3-1,Savio Pereira,Relatório da Partida,Allianz Parque,Palmeiras
+108,12,2023-06-04,18:30,Série A,Rodada da semana 9,dom,Em casa,V,3.0,1.0,Coritiba,2.5,0.6,51.0,,Gustavo Gómez,4-2-3-1,Felipe Fernandes de Lima,Relatório da Partida,Allianz Parque,Palmeiras
+109,16,2023-06-25,16:00,Série A,Rodada da semana 12,dom,Em casa,D,0.0,1.0,Botafogo (RJ),2.6,0.8,64.0,38.877,Gustavo Gómez,4-2-3-1,Anderson Daronco,Relatório da Partida,Allianz Parque,Palmeiras
+110,3,2023-04-23,16:00,Série A,Rodada da semana 2,dom,Em casa,E,0.0,0.0,Atlético Mineiro,0.8,1.2,37.0,,João Paulo,4-4-2,Braulio da Silva Machado,Relatório da Partida,Vila-Belmiro,Santos
+111,4,2023-04-29,18:30,Série A,Rodada da semana 3,sáb,Em casa,V,3.0,2.0,América (MG),1.8,1.8,44.0,,Yeferson Soteldo,4-3-3,Anderson Daronco,Relatório da Partida,Vila-Belmiro,Santos
+112,7,2023-05-10,19:00,Série A,Rodada da semana 5,qua,Em casa,V,3.0,0.0,Bahia,2.0,1.3,41.0,,João Paulo,4-2-3-1,Wagner do Nascimento Magalhães,Relatório da Partida,Vila-Belmiro,Santos
+113,9,2023-05-20,21:00,Série A,Rodada da semana 7,sáb,Em casa,E,0.0,0.0,Palmeiras,0.4,0.4,39.0,,João Paulo,4-2-3-1,Raphael Claus,Relatório da Partida,Vila-Belmiro,Santos
+114,12,2023-06-03,21:00,Série A,Rodada da semana 9,sáb,Em casa,E,1.0,1.0,Internacional,1.4,1.1,56.0,9.6,Alison,4-2-3-1,Paulo Cesar Zanovelli da Silva,Relatório da Partida,Vila-Belmiro,Santos
+115,15,2023-06-21,20:00,Série A,Rodada da semana 11,qua,Em casa,D,0.0,2.0,Corinthians,0.8,1.3,51.0,12.499,Yeferson Soteldo,4-2-3-1,Leandro Pedro Vuaden,Relatório da Partida,Vila-Belmiro,Santos
+116,16,2023-06-25,18:30,Série A,Rodada da semana 12,dom,Em casa,D,2.0,3.0,Flamengo,1.7,0.8,33.0,,Yeferson Soteldo,4-2-3-1,Wilton Sampaio,Relatório da Partida,Vila-Belmiro,Santos
+117,3,2023-04-22,18:30,Série A,Rodada da semana 2,sáb,Em casa,V,3.0,0.0,América (MG),2.4,1.1,53.0,41.006,Robert Arboleda,4-1-3-2,Wagner do Nascimento Magalhães,Relatório da Partida,Morumbi,Sao-Paulo
+118,6,2023-05-07,16:00,Série A,Rodada da semana 4,dom,Em casa,V,2.0,0.0,Internacional,1.9,0.8,42.0,46.093,Rafinha,4-2-3-1,Braulio da Silva Machado,Relatório da Partida,Morumbi,Sao-Paulo
+119,9,2023-05-20,18:30,Série A,Rodada da semana 7,sáb,Em casa,V,4.0,2.0,Vasco da Gama,2.3,1.1,52.0,,Rafinha,4-2-3-1,Leandro Pedro Vuaden,Relatório da Partida,Morumbi,Sao-Paulo
+120,11,2023-05-27,21:00,Série A,Rodada da semana 8,sáb,Em casa,V,2.0,1.0,Goiás,0.9,0.3,67.0,,Rafinha,4-2-3-1,Rafael Rodrigo Klein,Relatório da Partida,Morumbi,Sao-Paulo
+121,14,2023-06-11,16:00,Série A,Rodada da semana 10,dom,Em casa,D,0.0,2.0,Palmeiras,1.4,0.7,65.0,,Rafinha,4-2-3-1,Raphael Claus,Relatório da Partida,Morumbi,Sao-Paulo
+122,15,2023-06-21,19:00,Série A,Rodada da semana 11,qua,Em casa,V,2.0,1.0,Atl Paranaense,0.6,1.2,56.0,22.882,Rafinha,4-2-3-1,Savio Pereira,Relatório da Partida,Morumbi,Sao-Paulo
+123,18,2023-07-01,16:00,Série A,Rodada da semana 13,sáb,Em casa,V,1.0,0.0,Fluminense,1.1,0.2,54.0,,Rafinha,4-1-2-1-2◆,Anderson Daronco,Relatório da Partida,Morumbi,Sao-Paulo
+124,1,2023-04-23,16:00,Série A,Rodada da semana 2,dom,Em casa,E,2.0,2.0,Palmeiras,1.4,0.7,36.0,,Léo Pelé,4-3-3,Rafael Rodrigo Klein,Relatório da Partida,São Januário,Vasco-da-Gama
+125,2,2023-05-01,20:00,Série A,Rodada da semana 3,seg,Em casa,D,0.0,1.0,Bahia,0.9,1.1,55.0,,Léo Pelé,4-3-3,Flavio Rodrigues de Souza,Relatório da Partida,São Januário,Vasco-da-Gama
+126,5,2023-05-14,16:00,Série A,Rodada da semana 6,dom,Em casa,D,0.0,1.0,Santos,1.7,0.6,68.0,18.476,Léo Pelé,4-3-3,Rodrigo José Pereira de Lima,Relatório da Partida,São Januário,Vasco-da-Gama
+127,8,2023-06-05,20:00,Série A,Rodada da semana 9,seg,Em casa,D,1.0,4.0,Flamengo,1.5,1.1,45.0,,Léo Pelé,3-4-3,Braulio da Silva Machado,Relatório da Partida,Maracanã,Vasco-da-Gama
+128,10,2023-06-22,20:00,Série A,Rodada da semana 11,qui,Em casa,D,0.0,1.0,Goiás,1.7,0.4,59.0,,Léo Pelé,4-3-1-2,Jean Pierre Goncalves Lima,Relatório da Partida,São Januário,Vasco-da-Gama
+129,11,2023-06-26,21:00,Série A,Rodada da semana 12,seg,Em casa,V,1.0,0.0,Cuiabá,1.8,0.5,45.0,,Léo Pelé,4-3-3,Rafael Rodrigo Klein,Relatório da Partida,São Januário,Vasco-da-Gama
